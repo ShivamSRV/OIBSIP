@@ -3,7 +3,7 @@ Hello , My name is Shivam Varma and
 This are the projects which are developed by me under the internship provided by oasis infobyte as java developer.
 I have created two projects under this internship:
 
-1- ATM (My_ATM.java)
+1- ATM (My_ATM.java) : 
 It is the project which provides all functionalities of ATM machine and it is written in JAVA. Its functionalities are :
 * Deposit
 * Withdrawl
