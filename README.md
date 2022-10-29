@@ -11,6 +11,6 @@ It is the project which provides all functionalities of ATM machine and it is wr
 * History
 * Transfer
 
-2- Number guessing game (Num_guess.java)
+2- Number guessing game (Num_guess.java) : 
 It is basically a number guessing game in which a user can play game by guessing a number , if the guessed number is equal to actual number , the user will win. It provides a plenty of options like limited or unlimited number of attempts according to user needs and it also displays score for the winning users. The game is developed in JAVA.
 
